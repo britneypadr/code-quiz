@@ -1,6 +1,6 @@
 # Code Quiz
 
-Code Quiz is a web application that allows users to test their knowledge of coding-related topics through a quiz game. The quiz presents multiple-choice questions to the user and tracks their score based on correct and incorrect answers. Users can save their initials and score at the end of the quiz.
+Code Quiz is a web application that allows users to test their knowledge of coding-related topics through a quiz game. The quiz presents multiple-choice questions to the user and tracks their score based on correct and incorrect answers. Users can save their initials and scores at the end of the quiz.
 
 ## Features
 
@@ -16,6 +16,15 @@ Code Quiz is a web application that allows users to test their knowledge of codi
 - CSS
 - JavaScript
 
+## References
+
+The development of this project was guided by various resources and tutorials. Here are some helpful references:
+
+- [W3Schools](https://www.w3schools.com/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+
 ## How to Use
 
 1. Clone the repository:
@@ -28,10 +37,6 @@ git clone https://github.com/britneypadr/code-quiz.git
 4. Answer each question by clicking on the provided options.
 
 5. At the end of the quiz, enter your initials and click "Submit" to save your score.
-
-## Screenshots
-
-![Screenshot](./screenshots/screenshot1.jpeg)
 
 ## Contributing
 
